@@ -1,0 +1,12 @@
+/Users/dmitrijpervickij/RiderProjects/task6/Task6/bin/Debug/netcoreapp3.1/Task6.deps.json
+/Users/dmitrijpervickij/RiderProjects/task6/Task6/bin/Debug/netcoreapp3.1/Task6.runtimeconfig.json
+/Users/dmitrijpervickij/RiderProjects/task6/Task6/bin/Debug/netcoreapp3.1/Task6.runtimeconfig.dev.json
+/Users/dmitrijpervickij/RiderProjects/Task6/Task6/bin/Debug/netcoreapp3.1/Task6.dll
+/Users/dmitrijpervickij/RiderProjects/Task6/Task6/bin/Debug/netcoreapp3.1/Task6.pdb
+/Users/dmitrijpervickij/RiderProjects/Task6/Task6/obj/Debug/netcoreapp3.1/Task6.csprojAssemblyReference.cache
+/Users/dmitrijpervickij/RiderProjects/Task6/Task6/obj/Debug/netcoreapp3.1/Task6.AssemblyInfoInputs.cache
+/Users/dmitrijpervickij/RiderProjects/Task6/Task6/obj/Debug/netcoreapp3.1/Task6.AssemblyInfo.cs
+/Users/dmitrijpervickij/RiderProjects/Task6/Task6/obj/Debug/netcoreapp3.1/Task6.csproj.CoreCompileInputs.cache
+/Users/dmitrijpervickij/RiderProjects/Task6/Task6/obj/Debug/netcoreapp3.1/Task6.dll
+/Users/dmitrijpervickij/RiderProjects/Task6/Task6/obj/Debug/netcoreapp3.1/Task6.pdb
+/Users/dmitrijpervickij/RiderProjects/task6/Task6/obj/Debug/netcoreapp3.1/Task6.genruntimeconfig.cache
